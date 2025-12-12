@@ -1,0 +1,9 @@
+google-cloud-storage
+google-cloud-bigquery
+google-cloud-secret-manager
+google-cloud-scheduler
+google-cloud-functions
+google-cloud-run
+googlemaps
+python-dotenv
+requests
